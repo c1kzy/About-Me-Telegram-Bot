@@ -7,8 +7,8 @@ AboutMe telegram bot knows 4 commands so far. You can use it to get my bio and l
 Clone the repository and run the program using a Go compiler:
 
 ```
-git clone git@git.foxminded.ua:foxstudent106270/task-2.1-about-me-bot.git
-cd task-2.1-about-me-bot
+git clone https://github.com/c1kzy/About-Me-Telegram-Bot.git
+cd about-me-telegram-bot
 go run main.go 
 ```
 
